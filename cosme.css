@@ -1,0 +1,39 @@
+body{
+    background:linear-gradient(aqua,salmon,yellow);
+    background-repeat: no-repeat;
+    height: 170vh;
+    background-position: center;
+    background-size: cover;
+
+}
+h2{ 
+    text-align: center;
+}
+.edit{ 
+    width: 500px;
+    height: 500px;
+    border-radius: 250px ;
+}
+.nodecoracion{
+    text-decoration: none;
+}
+.lista{
+    padding: 20px antiquewhite;
+    margin: 10px black;
+    position: relative;
+    height: 1000px;
+    width: 350px;
+
+}
+.sinfondo{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+.fondo{
+    background: linear-gradient(rgb(81, 0, 255),pink,brown );
+}
+.amigos{
+    border-radius: 100px;
+    text-decoration: none;
+    text-size-adjust: 20px;
+}
